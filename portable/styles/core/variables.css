@@ -1,0 +1,10 @@
+:root {
+  --color-focus: oklch(73.2610% 0.1718 42.387);
+  --color-shine: oklch(100.000% 0.0250 42.000);
+  --color-shade: oklch(10.0000% 0.1000 42.000);
+
+  --font-sans: sans;
+  --font-curs: curs;
+  --font-mono: mono;
+}
+

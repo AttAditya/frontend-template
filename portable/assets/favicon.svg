@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path fill="#FFD700" d="M50 5
+    Q55 25 60 30
+    Q80 28 85 32
+    Q75 45 70 50
+    Q75 70 72 75
+    Q55 65 50 60
+    Q45 65 28 75
+    Q25 70 30 50
+    Q25 45 15 32
+    Q20 28 40 30
+    Q45 25 50 5Z"/>
+  <circle cx="50" cy="50" r="8" fill="#FFA500"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M50 42 Q52 35 50 28 Q48 35 50 42"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M58 50 Q65 52 72 50 Q65 48 58 50"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M50 58 Q48 65 50 72 Q52 65 50 58"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M42 50 Q35 48 28 50 Q35 52 42 50"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M55 45 Q62 38 68 35 Q62 42 55 45"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M55 55 Q62 62 68 65 Q62 58 55 55"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M45 55 Q38 62 32 65 Q38 58 45 55"/>
+  <path fill="none" stroke="#FF8C00" stroke-width="2" d="M45 45 Q38 38 32 35 Q38 42 45 45"/>
+</svg>
