@@ -1,0 +1,24 @@
+.layout {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 0.1rem solid var(--color-shade);
+}
+
+.details h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.content {
+  flex: 1;
+}
