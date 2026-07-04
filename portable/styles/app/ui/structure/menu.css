@@ -1,0 +1,27 @@
+.menu-container {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  pointer-events: none;
+}
+
+.menu {
+  padding: 1rem 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu-block {
+  pointer-events: auto;
+  display: flex;
+}
+
+.menu-top {
+  top: 0;
+}
+
+.menu-bottom {
+  bottom: 0;
+}
+

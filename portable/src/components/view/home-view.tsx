@@ -1,0 +1,19 @@
+import { Container } from "@components/ui/structure/container";
+import { Heading } from "@components/ui/text/heading";
+import { Text } from "@components/ui/text/text";
+import { useClasses } from "@styles";
+
+export function HomeView() {
+  return (<>
+    <Container className={useClasses('home-view')}>
+      <Heading size="max">
+        Portable
+      </Heading>
+
+      <Text>
+        A lightweight, fast, and portable web application framework built with Preact.
+      </Text>
+    </Container>
+  </>);
+}
+
